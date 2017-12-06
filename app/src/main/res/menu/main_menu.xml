@@ -1,0 +1,12 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/MyLocation"
+        android:title="Quick1"
+        android:icon="@drawable/ic_my_location_black_24dp"
+        app:showAsAction="ifRoom|withText"/>
+
+    <item
+        android:id="@+id/action_subactivity"
+        android:title="Sub Activity"/>
+</menu>
