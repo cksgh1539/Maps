@@ -38,7 +38,7 @@ import java.io.IOException;
 import java.util.List;
 import java.util.Locale;
 import java.util.Map;
-
+// 구글 맵 , 마커 
 public class MainActivity extends AppCompatActivity implements OnMapReadyCallback{
 
     private static final String TAG = "chanho";
